@@ -1,0 +1,33 @@
+.container {
+    width: 650px;
+    height: 430px;
+    background-image: url('http://7428.net/wp-content/uploads/2014/02/Spotlight-Football-Field-Vector.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    font-family: "HelveticaNeue-Light";
+}
+p {
+    font-size: 10px;
+}
+
+.container, h1 {
+    text-align: center;
+}
+
+
+/* have player images enlarge when you hover */
+img:hover {
+    width:10px;
+    height:10px;
+}
+/*doesn't work yet*/
+
+#names-here {
+    margin-top: 80px;
+    font-size: 30px;
+    text-align: left;
+    font-weight: bold;
+    -webkit-text-stroke: 1px black;
+    padding: 0px 0px 10px 15px;
+}
