@@ -1,4 +1,4 @@
-homework2-good
+homework2
 ==============
 
-Creating new repository for better version of hw2. Not sure yet how to just push the new version to the old repository.
+Simple HTML,CSS and jQuery site
